@@ -3,6 +3,7 @@
 - 📫 How to reach me rtucker1@umbc.edu
 - 😄 Pronouns: he/him
 
+Comptuer Enginner Major - Cyber Security at UMBC 
 
 <!---
 rtucker1202/rtucker1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
